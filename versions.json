@@ -1,0 +1,7 @@
+{
+  "version": "3.4",
+  "name": "Pivoware 3.4",
+  "download_url": "https://github.com/AyuWaree/Pivoware/raw/refs/heads/main/pivoware.jar",
+  "minecraft": "1.21.11",
+  "changelog": "• Релиз Pivoware 3.4\n• Fabric 1.21.11 и Java 25\n• Новые модули и оптимизация"
+}
