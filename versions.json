@@ -1,6 +1,6 @@
 {
-  "twork": "false",
-  "twork_msg": "хуй",
+  "twork": "true",
+  "twork_msg": "Fix the Pivoware (black screen on intel processors)",
   "version": "3.4",
   "name": "Pivoware 3.4",
   "download_url": "https://github.com/AyuWaree/Pivoware/raw/refs/heads/main/pivoware.jar",
