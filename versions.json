@@ -1,4 +1,6 @@
 {
+  "twork": "true",
+  "twork_msg": "Технические работы: обновление чита и сервера(test)",
   "version": "3.4",
   "name": "Pivoware 3.4",
   "download_url": "https://github.com/AyuWaree/Pivoware/raw/refs/heads/main/pivoware.jar",
