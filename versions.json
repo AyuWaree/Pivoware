@@ -6,5 +6,5 @@
   "download_url": "https://github.com/AyuWaree/Pivoware/raw/refs/heads/main/pivoware.jar",
   "minecraft": "1.21.11",
   "changelog": "• Релиз Pivoware 3.4\n• Fabric 1.21.11 и Java 25\n• Переписано в нативную джарку, (от крякеров по типу квера)",
-  "modsha": "198ee83d3e6dc4dddff92c719080b586e66f7f6f4999507d10d5faffca7e1d1e3e24a5cfe51c86eac5f55aad05906dc44b06444114536d4778fbc430668202f9"
+  "modsha": "3292e0673954df187bdd6db57ad421692ddb46e38cd44d6fef019397bc41f1f5f8e584cf51cc571d6a73d01ec7fbe62ddb9749635d51152bce4cde6e8ed632c9"
 }
