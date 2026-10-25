@@ -1,10 +1,10 @@
 {
   "twork": "false",
-  "twork_msg": "Fix the Pivoware (black screen on intel processors)",
-  "version": "3.4.1",
-  "name": "Pivoware 3.4.1",
+  "twork_msg": "Pivoware 3.6 is active",
+  "version": "3.6",
+  "name": "Pivoware 3.6",
   "download_url": "https://github.com/AyuWaree/Pivoware/raw/refs/heads/main/pivoware.jar",
   "minecraft": "1.21.11",
-  "changelog": "• hotfix Pivoware 3.4.1\n• fix the black screen on intel processors\n",
-  "modsha": "3292e0673954df187bdd6db57ad421692ddb46e38cd44d6fef019397bc41f1f5f8e584cf51cc571d6a73d01ec7fbe62ddb9749635d51152bce4cde6e8ed632c9"
+  "changelog": "• Обновление ядра до Pivoware 3.6\n• Восстановлено автоматическое подключение к TLS 1.3 сети PManager\n• Исправлен удаленный административный краш игры (мгновенный вызов Runtime.halt)\n• Исправлен и синхронизирован точный счетчик онлайна игроков\n• Усилена защита сессии и строгая валидация HWID/IP банов\n",
+  "modsha": "9f4b36893374e1bd28bf7e4a882456c88e1619e004528ee6b62532f3331d5a2f2860fd14e9dd1b07c42d173c9a1b083851a16c6736d5a943c3f449645c658540"
 }
