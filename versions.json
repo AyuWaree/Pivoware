@@ -3,7 +3,8 @@
   "twork_msg": "Pivoware 3.6 is active",
   "version": "3.6",
   "name": "Pivoware 3.6",
-  "download_url": "https://github.com/AyuWaree/Pivoware/raw/refs/heads/main/pivoware.jar",
+  "download_url": "http://2.26.81.98/pivoware/v2/pivoware.jar",
+  "launcher_url": "http://2.26.81.98/pivoware/v2/Pivolauncher.exe",
   "minecraft": "1.21.11",
   "changelog": "• AttackAura: Улучшены алгоритмы ротации под Grim и обновлен предикт ударов\n• TargetStrafe: Оптимизирована физика стрейфов вокруг цели для более плавного движения\n• AutoTotem: Увеличена скорость перекладывания тотема при критическом уроне\n• NoSlow: Исправлено замедление при использовании предметов, еды и натяжении лука\n• TargetHud: Обновлен дизайн карточки цели и добавлены плавные анимации здоровья\n• PearlEsp: Добавлена отрисовка точной траектории и места приземления жемчуга\n• Общая оптимизация стабильности и рендеринга графического интерфейса\n",
   "modsha": "65b948a27f35220df0b21087f820c46c74f29bacad2ed91e84a904ffd45547c22b479f71b2540f9ffaff6d3d252e14dc2ded7e43049e46b49bcd44bbb29ab910"
